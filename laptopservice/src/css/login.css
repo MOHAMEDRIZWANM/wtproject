@@ -1,0 +1,66 @@
+body {
+  /* background-color: #0c1f42; */
+  background-image: url(../images/smooth-blue-wooden-textured-background.jpg);
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  color: #052357;
+}
+#login-container {
+  background-color: #fff;
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px #333;
+  margin-top: 180px;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #052357;
+  
+}
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+input[type="text"],
+input[type="password"] {
+  width: 90%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  
+}
+
+input:hover{
+  border: 2px solid #cddaf1;
+  box-shadow: 0px 0px 10px #ccc;
+}
+
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(149, 147, 147);
+}
+a:hover{
+  color:#052357 ;
+}
+input[type="submit"] {
+  background-color: #052357;
+  color: #fff;
+  font-size: 15px;
+  padding: 10px 20px;
+  border: 2px solid #052357;
+  border-radius: 5px;
+  cursor: pointer;
+}
+input[type="submit"]:hover {
+  background-color: white;
+  color: #051e4b;
+  font-size: 15px;
+  border: 2px solid #ccc;
+  box-shadow: 0px 0px 10px #ccc;
+}
