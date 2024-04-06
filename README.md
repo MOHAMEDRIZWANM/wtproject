@@ -1,2 +1,2 @@
-http://laptopservice.netlify.app/
+https://laptopservice.vercel.app/
 # wtproject
