@@ -1,2 +1,2 @@
-https://laptopservice.vercel.app/
+https://laptop-service-frontend.vercel.app/
 # wtproject
